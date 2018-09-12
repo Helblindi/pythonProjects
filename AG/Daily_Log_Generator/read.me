@@ -1,0 +1,75 @@
+I. Instructions on how to use
+-----------------------------
+1. Download file from Workschedule.net
+   A. https://ws8.workschedule.net/WS.exe?Module=CL&CompanyID=39219
+   B. Login as manager
+   C. Click on current schedule
+   D. Sort the schedule:
+        Location: All
+        Shift: All
+        Level: All
+        Time Off: Time ON Only
+        Role: All Roles
+        Attendance: None Selected
+        Department: All Departments
+        Sort by: Start Time (No additional sort bys needed)
+        View: Daily View (then go to the day that you want to make the daily log for
+   E. Click the print icon next to "Current Schedule"
+   F. Select "Open XLS File"
+   G. Open the saved Excel file, enable editing, and then save as
+        1. Select correct destination to save it to
+        2. Name is "schedule.txt" IMPORTANT
+        3. Save as type should be "Text (Tab delimited) (*.txt)"
+   H. Run Generator.exe
+   I. Open Daily_Log_Tool.csv
+   J. Copy and paste necessary data into the Daily Log
+   K. Voila, you are done.
+
+II. File List
+-------------
+Generator.py       Drive program containing all necessary classes and code
+quickstart.py      Future Google API implementation
+read.me            This read.me file
+setup.py           Python file containing code to convert program to executable form
+test.csv           Output test file
+Test.py            Testing ground for further development
+test_write.py      Future Google API implementation
+token.json         Future Google API implementation
+
+III. General Approach
+---------------------
+
+
+IV. Potential Bottlenecks
+-------------------------
+1. Naming convention used by schedulers may change as schedulers come and go.  This created an issue
+   with the formatting of the Excel file that is output by workschedule.  Currently the program
+   accounts for general naming scheme used by current schedulers.  Any notes that are placed on any
+   schedule block can cause issues with how the schedule is read.
+
+2. Program not running correctly on SC computers.  Currently runs flawless on my personal computer
+   but I am a noob when it comes to using cx_Freeze to convert a python directory into an executable.
+
+3. User error in not being able to follow directions.  If any issues arise, feel free to reach out to
+   me (Madison Sheridan)
+
+4. It is extremely important that the file is downloaded to the correct location.  When downloading
+   schedule for that day from workschedule it must be downloaded to the specified location with the
+   specified name.  The program is currently hardcoded to take that file location and perform the
+   code on that file.  It will not run on any other file.
+
+V. Author(s)
+------------
+Madison Sheridan MSS
+
+VI. Version History
+-------------------
+1.0
+- Base program, capable of taking a workschedule csv file and converting it to a csv file formatted correctly to
+  be implemented into the AvantGuard Rexburg Daily Log.
+
+VII. Ideas for Future Development
+---------------------------------
+A. Google Sheets implementation, to directly output the data into some part of the Daily Log.
+B. Seating chart generator
+C. Improve UI to be more user friendly

@@ -1,0 +1,1377 @@
+Start Time	Sat 09/08/18	Total Hrs
+12 am	"Reading, Jacob JCR TC-ID
+Rexburg
+Vacation
+0 hrs"	
+	"Bowman, Lydia FT LAB SC-ID
+Rexburg
+Vacation
+0 hrs"	
+	"Mitchell, Kade FT KBM2 SC-UT
+Ogden
+Vacation
+Family vacation to Oregon
+0 hrs"	
+	"Suiter, Ashlee FT AJS TM-UT
+Ogden
+Vacation
+Comic Con
+0 hrs"	
+	"Reyes, Melissa FT MKR SC-ID
+Rexburg
+Vacation
+California
+0 hrs"	
+	"Ervin, Darien DFE L3-ID
+Rexburg
+Vacation
+0 hrs"	
+	"Hughes, Katherine KEH TM-UT
+Ogden
+Vacation
+0 hrs"	
+	"Harper, Spencer SAH2 L3-ID
+Rexburg
+Vacation
+0 hrs"	
+	"Zieser, Ainsley FT AYZ SC-UT
+Ogden
+Vacation
+0 hrs"	
+	"Fulks, Maria FT MGF TM-UT
+Ogden
+Vacation
+ Baby Shower/ Family will be in town
+0 hrs"	
+	"Anderson, Kylii KMA2 L3-UT
+Ogden
+Vacation
+Maroon 5 and birthday weekend!! 
+0 hrs"	
+	"Gay, Maddie MG2 L1-ID
+Rexburg
+Vacation
+0 hrs"	
+	"Lee, Jacob JDL L2-UT
+Ogden
+Vacation
+Getting Married!
+0 hrs"	
+	"Schaffer, Garrett GGS L3-UT
+Ogden
+Vacation
+SLC Comic-con 
+0 hrs"	
+	"Lozano, Aimee AIL L1-ID
+Rexburg
+Vacation
+Comic Con!
+0 hrs"	
+	"Brunker, James (Dugan) JDB2 L2-UT
+Ogden
+Vacation
+Comic-Con
+0 hrs"	
+	"Pomeroy, Hannah HEP L3-UT
+Ogden
+Vacation
+0 hrs"	
+	"Kennedy, Corey CK L1-ID
+Rexburg
+Vacation
+0 hrs"	
+	"Halliday, Brittany BPH L1-ID
+Rexburg
+Pre-Approved on Hire
+0 hrs"	
+	"Pedersen, Zackary ZAP L2-UT
+Ogden
+Vacation
+0 hrs"	
+	"Miller, Nathaniel NTM L1-UT
+Ogden
+Vacation
+0 hrs"	
+	"Mitchell, Christian CMM3 L1-ID
+Rexburg
+Vacation
+0 hrs"	0
+4 am	"Ulrich, Logan LDU TM-UT
+Ogden
+Day Shift
+Burgs
+04:00-10:00
+OT approved 
+6 hrs"	6
+5 am	"Clare, Rachel FT RCL L3-UT
+Ogden
+Day Shift
+Inbound
+05:00-13:30
+8 hrs"	
+	"Jones, Lara LSJ TM-L3-ID
+Rexburg
+Day Shift
+L3
+Message Centers
+05:00-09:00
+4 hrs"	
+	"Maire, Jay JLSM SC-ID
+Rexburg
+Grave Shift
+Meds
+Cut Hours
+05:00-07:00
+2 hrs"	
+	"Jolley, Tyler TJJ2 TM-UT
+Ogden
+Day Shift
+TM
+Inbound
+05:00-08:30
+3.5 hrs"	
+	"Smith, Kaitlyn FT KRS L3-ID
+Rexburg
+Day Shift
+L3
+Message Centers
+05:00-13:00
+EMC
+7.5 hrs"	
+	"Stokes, Garet GJS2 L2-UT
+Ogden
+Day Shift
+Burgs
+05:00-13:30
+8 hrs"	
+	"Holmes, Caden FT CWH2 L1-UT
+Ogden
+Day Shift
+Burgs
+05:00-13:00
+EMC
+7.5 hrs"	
+	"Thompson, Megan MST2 L1-ID
+Rexburg
+Day Shift
+Meds
+05:30-09:30
+4 hrs"	44.5
+6 am	"Orquiz, Kelsey KO TM-UT
+Ogden
+Day Shift
+TM
+Inbound
+Excused
+06:00-12:00
+6 hrs"	
+	"Madrigal, Brian BMM TM-UT
+Ogden
+Day Shift
+Burgs
+06:00-14:30
+8 hrs"	
+	"Booth, Jacob JBO TM-UT
+Ogden
+Day Shift
+TM
+Inbound
+06:00-12:00
+6 hrs"	
+	"Dixon, Cassie CD TC-ID
+Ogden
+Day Shift
+Burgs
+06:00-07:00
+ot approved
+1 hrs"	
+	"Newey, Trevor FT TPN TM-UT
+Ogden
+Day Shift
+TM
+Inbound
+06:00-14:30
+8 hrs"	
+	"Lloyd, Stephen SJL2 L3-ID
+Rexburg
+Day Shift
+L3
+Message Centers
+06:00-12:00
+6 hrs"	
+	"Fitzen, Katelyn KF2 L2-ID
+Rexburg
+Day Shift
+Meds
+06:00-08:00
+2 hrs"	
+	"Daniels, Jeromy JLD L2-ID
+Rexburg
+Day Shift
+Meds
+06:00-14:30
+8 hrs"	
+	"Peterson, Chloe CNP TM-UT
+Ogden
+Day Shift
+TM
+Inbound
+06:00-10:00
+4 hrs"	
+	"Rojas, Alexandra AR4 TM-UT
+Ogden
+Day Shift
+TM
+Inbound
+06:00-10:00
+EMC
+4 hrs"	
+	"Hunt, Brittannie FT BKH L3-UT
+Ogden
+Day Shift
+Inbound
+06:00-14:30
+8 hrs"	
+	"Taggart, Jenna JT L2-UT
+Ogden
+Day Shift
+Burgs
+06:00-14:30
+8 hrs"	
+	"Davis, Breanna FT BAD L3-UT
+Ogden
+Day Shift
+Inbound
+06:00-08:00
+2 hrs"	
+	"Orawiec, Amanda ARO2 L2-UT
+Ogden
+Day Shift
+Burgs
+06:00-14:30
+8 hrs"	
+	"Lovell, Kyla KEL L1-ID
+Rexburg
+Day Shift
+Meds
+06:00-10:00
+4 hrs"	
+	"Wheatley, Ashley AMW2 L1-ID
+Rexburg
+Day Shift
+Meds
+06:00-09:00
+3 hrs"	
+	"Hogge, Austin AKH L1-UT
+Ogden
+Swing Shift
+Non-Central
+Transition
+NCNS
+Transition hours 0600-1000
+0 hrs"	
+	"Eliason, Jeff FT JKE SC-ID
+Rexburg
+Day Shift
+Shift Coordinator
+06:30-08:30
+2 hrs"	
+	"Larsen, Amber FT ALL SC-UT
+Ogden
+Day Shift
+Shift Coordinator
+Inbound
+06:30-15:00
+8 hrs"	
+	"Valinotti, Matthew MJV L3-ID
+Rexburg
+Day Shift
+Shift Coordinator
+06:30-15:00
+MCG
+8 hrs"	
+	"Oltehua, Vianey VSO L2-UT
+Ogden
+Grave Shift
+Burgs
+06:30-07:30
+1 hrs"	
+	"Nay, Kolten KKN SC-UT
+Ogden
+Day Shift
+Shift Coordinator
+Inbound
+06:30-15:00
+8 hrs"	113
+7 am	"Welch, Annaka AWE TM-UT
+Ogden
+Day Shift
+TM
+Inbound
+07:00-11:00
+4 hrs"	
+	"Dixon, Cassie CD TC-ID
+Rexburg
+Day Shift
+Team Coach
+07:00-08:30
+1.5 hrs"	
+	"haveman, Celia CMH SC-UT
+Ogden
+Day Shift
+Burgs
+07:00-08:30
+ot approved
+1.5 hrs"	
+	"Law, Dylan FT DML2 L3-ID
+Rexburg
+Day Shift
+L3
+Message Centers
+07:00-15:00
+8 hrs"	
+	"Parshall, Rebecca RCP L3-ID
+Rexburg
+Day Shift
+L3
+Message Centers
+07:00-12:00
+EMC
+5 hrs"	
+	"Gorman, Eric EHG L2-ID
+Rexburg
+Day Shift
+Meds
+07:00-14:30
+7.5 hrs"	
+	"Greenhalgh, Melissa MAG L2-ID
+Rexburg
+Day Shift
+Meds
+07:00-14:30
+7 hrs"	
+	"Albrethsen, Trevor TGA L2-ID
+Rexburg
+Day Shift
+Meds
+07:00-11:00
+4 hrs"	
+	"Hamblin, Shay SHH2 L3-ID
+Rexburg
+Day Shift
+L3
+Message Centers
+07:00-14:30
+EMC
+7.5 hrs"	
+	"Barson, Caleb CJB3 L1-ID
+Rexburg
+Day Shift
+Meds
+07:00-12:00
+5 hrs"	
+	"Williams, Megan MJW L1-ID
+Rexburg
+Day Shift
+Meds
+07:00-11:00
+4 hrs"	
+	"Knight, Sarah SAK L1-ID
+Rexburg
+Day Shift
+Meds
+07:00-15:00
+7.5 hrs"	
+	"Kohler, Emmalee EK L1-ID
+Rexburg
+Day Shift
+Meds
+07:00-15:00
+7.5 hrs"	
+	"Adams, Tryce TEA L1-ID (Training)
+Rexburg
+Training
+Non-Central
+Transition
+TRANSITION WEEK 0700-1200
+0 hrs"	
+	"Nickell, Maranda MPN TM-UT
+Ogden
+Day Shift
+TM
+Inbound
+07:30-12:00
+4.5 hrs"	
+	"Laub, Abigail AEL L3-UT
+Ogden
+Day Shift
+Inbound
+07:30-12:00
+4.5 hrs"	
+	"Cook, Nichole ANC L3-ID
+Rexburg
+Day Shift
+Meds
+07:30-09:30
+OT approved 
+2 hrs"	
+	"Gallegos, Colton FT CAG TM-UT
+Ogden
+Day Shift
+TM
+Inbound
+07:30-12:00
+4.5 hrs"	
+	"Fredrick, Jessica FT JEF2 L3-UT
+Ogden
+Day Shift
+Inbound
+07:30-16:00
+8 hrs"	
+	"Nunez, Kathleen KN2 L3-UT
+Ogden
+Day Shift
+Inbound
+07:30-14:00
+6 hrs"	
+	"Velasquez, Hannah FT HAV TM-UT
+Ogden
+Vacation
+Denver for a football game
+0 hrs"	
+	"Taylor, Isaac ITT L1-ID
+Rexburg
+Day Shift
+Meds
+07:30-12:30
+5 hrs"	
+	"Greenup, Savanna SLG L1-ID
+Rexburg
+Day Shift
+Meds
+07:30-16:00
+8 hrs"	
+	"Andersen, Ramsay RCA2 L1-UT
+Ogden
+Day Shift
+Burgs
+07:30-16:00
+8 hrs"	
+	"Lowry, Brion BJL L1-ID
+Rexburg
+Day Shift
+Meds
+07:30-12:00
+4.5 hrs"	125
+8 am	"Homer, Aaron AJH L3-ID
+Rexburg
+Day Shift
+L3
+Message Centers
+08:00-10:00
+2 hrs"	
+	"Durrant, Ryan RSD L1-ID
+Rexburg
+Day Shift
+Meds
+08:00-15:00
+6.5 hrs"	
+	"Rostkowski, Asia AIR L2-UT
+Ogden
+Day Shift
+Burgs
+08:00-14:00
+6 hrs"	
+	"Quispe, Amber ARQ L2-ID
+Rexburg
+Day Shift
+Meds
+08:00-10:00
+2 hrs"	
+	"Kiggins, Sophie SLK L1-UT
+Ogden
+Day Shift
+Inbound
+08:00-10:00
+2 hrs"	
+	"Jacobson, Dylan DIJ L1-ID (Training)
+Rexburg
+Training
+Transition
+08:00-12:00
+TRANSITION WEEK 08:00-12:00
+0 hrs"	
+	"Hayes, Michael MWH TC-ID
+Rexburg
+Day Shift
+Shift Coordinator
+08:30-13:30
+5 hrs"	
+	"Dixon, Cassie CD TC-ID
+Ogden
+Day Shift
+Burgs
+08:30-10:00
+ot approved
+1.5 hrs"	
+	"Jolley, Tyler TJJ2 TM-UT
+Ogden
+Day Shift
+TM
+Inbound
+08:30-13:30
+5 hrs"	30
+9 am	"Jones, Lara LSJ TM-L3-ID
+Rexburg
+Day Shift
+Meds
+09:00-14:00
+5 hrs"	
+	"Herbert, Chris CRH3 L3-ID
+Rexburg
+Day Shift
+Meds
+09:00-12:00
+3 hrs"	
+	"Benjamin, Jansen JBB L3-ID
+Rexburg
+Day Shift
+L3
+Message Centers
+09:00-12:00
+3 hrs"	
+	"Davis, Breanna FT BAD L3-UT
+Ogden
+Day Shift
+Inbound
+09:00-10:00
+1 hrs"	
+	"Roberts, Holly HAR L1-ID
+Rexburg
+Day Shift
+Meds
+09:00-13:30
+4.5 hrs"	
+	"Hansen, Samantha SSH3 L1-ID
+Rexburg
+Day Shift
+Meds
+09:00-16:00
+6.5 hrs"	
+	"Lucas, Braxten FT BJL2 L1-UT
+Ogden
+Day Shift
+Non-Central
+Transition
+Transition hours 0900-1300
+0 hrs"	
+	"Johnson, Parker PWJ L1-ID (Training)
+Rexburg
+Day Shift
+Meds
+09:30-13:00
+3.5 hrs"	
+	"Zonts, Anthony ARZ L1-ID (Training)
+Rexburg
+Day Shift
+Meds
+09:30-17:00
+7 hrs"	33.5
+10 am	"Dixon, Cassie CD TC-ID
+Ogden
+Day Shift
+Burgs
+10:00-11:00
+OT approved 
+1 hrs"	
+	"Cook, Nichole ANC L3-ID
+Ogden
+Day Shift
+Burgs
+10:00-16:00
+Approved SN 
+5.5 hrs"	
+	"Kozlewski, Emma EMK TM-UT
+Ogden
+Day Shift
+TM
+Inbound
+10:00-14:30
+EMC
+4.5 hrs"	
+	"Homer, Aaron AJH L3-ID
+Rexburg
+Day Shift
+Meds
+10:00-12:00
+2 hrs"	
+	"Ulrich, Logan LDU TM-UT
+Ogden
+Day Shift
+TM
+Inbound
+10:00-12:00
+2 hrs"	
+	"Johnson, Spencer SSJ L3-ID
+Rexburg
+Day Shift
+Meds
+10:00-13:00
+3 hrs"	
+	"Gray, Anthony AJG L3-UT
+Ogden
+Day Shift
+Inbound
+10:00-14:00
+4 hrs"	
+	"Quispe, Amber ARQ L2-ID
+Rexburg
+Day Shift
+Meds
+10:00-12:00
+2 hrs"	
+	"Davis, Breanna FT BAD L3-UT
+Ogden
+Day Shift
+Burgs
+10:00-14:00
+4 hrs"	
+	"Hartney, Emily EFH L1-UT
+Ogden
+Day Shift
+Burgs
+10:00-14:30
+4.5 hrs"	32.5
+11 am	"Dixon, Cassie CD TC-ID
+Rexburg
+Day Shift
+Team Coach
+11:00-12:00
+1 hrs"	
+	"Strawn, Kristen KES2 L3-UT
+Ogden
+Day Shift
+Inbound
+11:00-16:00
+LAST DAY AT AG
+5 hrs"	
+	"Northrop, Terrance FT TCN L2-UT
+Ogden
+Swing Shift
+Burgs
+11:00-19:00
+EMC
+7.5 hrs"	
+	"Williams, Megan MJW L1-ID
+Rexburg
+Day Shift
+Meds
+11:00-14:00
+3 hrs"	16.5
+12 pm	"Orquiz, Kelsey KO TM-UT
+Ogden
+Day Shift
+TM
+Inbound
+Excused
+12:00-14:30
+2.5 hrs"	
+	"Nickell, Maranda MPN TM-UT
+Ogden
+Day Shift
+Burgs
+12:00-12:30
+EMC
+0.5 hrs"	
+	"Herbert, Chris CRH3 L3-ID
+Rexburg
+Day Shift
+L3
+Message Centers
+12:00-14:30
+2.5 hrs"	
+	"Goesch, Bret BAG L3-ID
+Rexburg
+Day Shift
+L3
+Message Centers
+12:00-14:00
+OT approved 
+2 hrs"	
+	"Wall, Justin JLW3 L2-ID
+Rexburg
+Swing Shift
+L3
+Message Centers
+12:00-20:00
+EMC
+7.5 hrs"	
+	"Nuttall, Ian IEN L2-UT
+Ogden
+Swing Shift
+Burgs
+12:00-14:30
+2.5 hrs"	
+	"Packer, Adam ABP L2-ID
+Rexburg
+Swing Shift
+Meds
+12:00-20:30
+8 hrs"	
+	"Reed, Rachel RLR L1-ID
+Rexburg
+Day Shift
+Meds
+12:00-16:00
+4 hrs"	
+	"Barson, Caleb CJB3 L1-ID
+Rexburg
+Day Shift
+Meds
+12:00-14:00
+2 hrs"	
+	"Stokes, Kristi KDS2 L1-ID
+Rexburg
+Swing Shift
+Meds
+12:00-17:30
+5.5 hrs"	
+	"Martin, Colton CSM2 L1-UT
+Ogden
+Day Shift
+Burgs
+12:00-18:00
+6 hrs"	
+	"Nickell, Maranda MPN TM-UT
+Ogden
+Day Shift
+Burgs
+12:30-13:30
+1 hrs"	
+	"Parshall, Rebecca RCP L3-ID
+Rexburg
+Day Shift
+Meds
+12:30-18:00
+5.5 hrs"	
+	"Carter, Natalya FT NIC2 L3-UT
+Ogden
+Day Shift
+Burgs
+12:30-13:30
+EMC
+1 hrs"	50.5
+1 pm	"Jackson, Colby FT CBJ Coach-UT
+Ogden
+Day Shift
+Team Coach
+Non-Central
+1300-1700
+4 hrs"	
+	"Johnson, Spencer SSJ L3-ID
+Rexburg
+Day Shift
+L3
+Message Centers
+13:00-17:00
+EMC
+4 hrs"	
+	"Holyoak, Zoe ZIH L1-ID
+Rexburg
+Day Shift
+Meds
+13:00-17:30
+4.5 hrs"	
+	"Goble, Makenna MDG L1-UT
+Ogden
+Swing Shift
+Non-Central
+Transition
+Transition hours 1300-1700
+0 hrs"	
+	"Eliason, Jeff FT JKE SC-ID
+Rexburg
+Swing Shift
+Shift Coordinator
+13:30-16:30
+BDS2
+3 hrs"	
+	"Garcia, Kailie KAG L3-UT
+Ogden
+Swing Shift
+Inbound
+13:30-16:00
+Last Day at AG!
+2.5 hrs"	
+	"Larsen, Chelsey FT CAL TM-UT
+Ogden
+Swing Shift
+Inbound
+13:30-14:30
+1 hrs"	
+	"Carter, Natalya FT NIC2 L3-UT
+Ogden
+Day Shift
+Burgs
+13:30-14:30
+EMC
+1 hrs"	
+	"Valele, Keleni FT KJV L2-UT
+Ogden
+Swing Shift
+Burgs
+13:30-22:00
+8 hrs"	
+	"Robbins, Ashley FT AJR2 L1-UT
+Ogden
+Swing Shift
+Burgs
+13:30-18:00
+EMC
+4.5 hrs"	
+	"Roberts, Holly HAR L1-ID
+Rexburg
+Day Shift
+Meds
+13:30-14:30
+1 hrs"	33.5
+2 pm	"Jones, Lara LSJ TM-L3-ID
+Rexburg
+Day Shift
+L3
+Message Centers
+14:00-16:00
+OT approved 
+2 hrs"	
+	"Merrick, Stephanie SMM3 L3-ID
+Rexburg
+Day Shift
+Meds
+14:00-15:00
+1 hrs"	
+	"Hernandez, Jose JAH3 L2-ID
+Rexburg
+Day Shift
+Meds
+14:00-18:00
+4 hrs"	
+	"Shaw, Molly MRS2 L1-ID
+Rexburg
+Swing Shift
+Meds
+14:00-18:30
+MRS2
+4.5 hrs"	
+	"Vazquez, Louie LMV TC-ID
+Rexburg
+Swing Shift
+Shift Coordinator
+14:30-18:30
+Covering MKR
+4 hrs"	
+	"Christensen, Briana BCC TM-UT
+Ogden
+Swing Shift
+TM
+Inbound
+14:30-20:00
+5.5 hrs"	
+	"Larsen, Chelsey FT CAL TM-UT
+Ogden
+Swing Shift
+TM
+Inbound
+14:30-23:00
+EMC
+8 hrs"	
+	"Eddy, Hunter HVE SC-UT
+Ogden
+Swing Shift
+Shift Coordinator
+Inbound
+14:30-23:00
+8 hrs"	
+	"Lomax, Houston FT HSL SC-UT
+Ogden
+Swing Shift
+Shift Coordinator
+Inbound
+14:30-23:00
+8 hrs"	
+	"Fife, Joseph JEF3 L3-ID
+Rexburg
+Swing Shift
+L3
+Message Centers
+14:30-23:00
+8 hrs"	
+	"Flanders, Lauren LEF2 L1-ID
+Rexburg
+Day Shift
+Meds
+14:30-17:30
+3 hrs"	
+	"Fousha, Jonathan FT JDF L3-UT
+Ogden
+Swing Shift
+Inbound
+14:30-23:00
+8 hrs"	
+	"Gorman, Eric EHG L2-ID
+Rexburg
+Day Shift
+L3
+Meds
+14:30-15:00
+0.5 hrs"	
+	"Thomson, Jenny JAT3 L3-UT
+Ogden
+Swing Shift
+Inbound
+14:30-20:00
+5.5 hrs"	
+	"Reeder, Stephen FT SOR L3-UT
+Ogden
+Swing Shift
+Inbound
+14:30-22:00
+7 hrs"	
+	"Hall, Sean SGH L3-UT
+Ogden
+Swing Shift
+Inbound
+14:30-23:00
+8 hrs"	
+	"Echeverria, Zaira FT ZE L3-UT
+Ogden
+Swing Shift
+Inbound
+14:30-18:00
+3.5 hrs"	
+	"Stuart, Ivy IRS L2-UT
+Ogden
+Swing Shift
+Burgs
+14:30-23:00
+8 hrs"	
+	"Allred, Rylee RSA L1-ID
+Rexburg
+Swing Shift
+Meds
+14:30-22:00
+7.5 hrs"	
+	"Brassanini, Peter PMB L1-ID
+Rexburg
+Swing Shift
+Meds
+14:30-23:00
+8 hrs"	
+	"Merrill, Alexis ALM2 L1-UT
+Ogden
+Swing Shift
+Burgs
+14:30-23:00
+8 hrs"	
+	"Dee, Kayden FT KSD2 L1-UT
+Ogden
+Swing Shift
+Burgs
+14:30-23:00
+8 hrs"	
+	"Orme, Tanis TSO L1-ID
+Rexburg
+Swing Shift
+Meds
+14:30-21:30
+7 hrs"	135
+3 pm	"Merrick, Stephanie SMM3 L3-ID
+Rexburg
+Swing Shift
+L3
+Message Centers
+15:00-21:00
+EMC
+5.5 hrs"	
+	"Bartholomew, Ysabelle YKB L3-ID
+Rexburg
+Swing Shift
+L3
+Message Centers
+15:00-22:00
+6.5 hrs"	
+	"Wintle, Davis DEW L1-ID
+Rexburg
+Day Shift
+Meds
+15:00-23:00
+7.5 hrs"	
+	"Rhodes, Austin ANR L1-UT
+Ogden
+Swing Shift
+Burgs
+15:00-16:00
+1 hrs"	
+	"Havens, Megan MCH L2-ID
+Rexburg
+Swing Shift
+Meds
+15:30-22:30
+7 hrs"	27.5
+4 pm	"Cook, Nichole ANC L3-ID
+Rexburg
+Swing Shift
+Message Centers
+16:00-18:00
+approved per SN
+2 hrs"	
+	"Garcia, Kailie KAG L3-UT
+Ogden
+Swing Shift
+Inbound
+16:00-17:00
+Last Day at AG!
+1 hrs"	
+	"Arave, Matthew MKA TM-UT
+Ogden
+Swing Shift
+TM
+Inbound
+16:00-20:00
+4 hrs"	
+	"Wille, Jesse JNW L1-ID
+Rexburg
+Day Shift
+Meds
+16:00-22:00
+6 hrs"	
+	"Ulrich, Chloe CEU L1-UT
+Ogden
+Swing Shift
+Burgs
+16:00-20:00
+4 hrs"	
+	"Barber, Kaylee KSB L2-UT
+Ogden
+Swing Shift
+Burgs
+16:00-20:00
+4 hrs"	
+	"Peterson, Brent BLP L1-ID
+Rexburg
+Swing Shift
+Meds
+16:00-23:00
+6.5 hrs"	
+	"Burdett, Kaelee KB2 L1-UT
+Ogden
+Swing Shift
+Burgs
+16:00-22:00
+6 hrs"	
+	"Miller, Savannah SJM2 L1-UT
+Ogden
+Day Shift
+Inbound
+16:00-20:00
+4 hrs"	
+	"Rhodes, Austin ANR L1-UT
+Ogden
+Swing Shift
+Burgs
+16:00-21:00
+5 hrs"	
+	"Sheridan, Madison MSS SC-ID
+Rexburg
+Swing Shift
+Shift Coordinator
+16:30-22:30
+BDS2
+8 hrs"	50
+5 pm	"Garcia, Kailie KAG L3-UT
+Ogden
+Swing Shift
+Inbound
+17:00-18:00
+Last Day at AG!
+1 hrs"	
+	"Johnson, Spencer SSJ L3-ID
+Rexburg
+Day Shift
+Meds
+17:00-17:30
+0.5 hrs"	
+	"Jean, Mosaiah MSJ2 L1-ID
+Ogden
+Swing Shift
+Burgs
+17:00-23:00
+suzie hours
+6 hrs"	
+	"Thomas, Karma KKT L1-UT
+Ogden
+Swing Shift
+Burgs
+17:00-21:00
+4 hrs"	
+	"Alsterberg-Vassallo, Brandon BDA L1-ID
+Rexburg
+Swing Shift
+Meds
+17:00-23:00
+6 hrs"	
+	"Wheeler, Bryan BEW2 L1-UT
+Ogden
+Swing Shift
+Non-Central
+Transition
+Transition hours 1700-2100
+0 hrs"	
+	"Webb, Scott SDW L2-ID
+Rexburg
+Swing Shift
+Meds
+17:30-22:00
+4.5 hrs"	22
+6 pm	"Bowman, Hayley HFB TM-L2-UT
+Ogden
+Swing Shift
+Burgs
+18:00-22:00
+SUMMER SALES HOURS
+4 hrs"	
+	"Cook, Nichole ANC L3-ID
+Rexburg
+Swing Shift
+Meds
+18:00-19:00
+1 hrs"	
+	"Parshall, Rebecca RCP L3-ID
+Rexburg
+Day Shift
+Meds
+18:00-20:00
+2 hrs"	
+	"Goesch, Bret BAG L3-ID
+Rexburg
+Swing Shift
+Meds
+18:00-20:30
+2.5 hrs"	
+	"Echeverria, Zaira FT ZE L3-UT
+Ogden
+Swing Shift
+Inbound
+18:00-22:00
+4 hrs"	
+	"Poulsen, Jordon JCP2 L2-ID
+Rexburg
+Swing Shift
+Meds
+18:00-22:30
+4.5 hrs"	
+	"Meagher, Mary MEM L1-ID
+Rexburg
+Day Shift
+Meds
+18:00-19:00
+1 hrs"	
+	"Powell, James JNP L3-ID
+Rexburg
+Swing Shift
+Shift Coordinator
+18:30-23:00
+Covering MKR
+4.5 hrs"	23.5
+7 pm	"Dunkley, Erinne EMD TM-L3-ID
+Rexburg
+Swing Shift
+L3
+Message Centers
+19:00-23:00
+4 hrs"	
+	"Kelso, Carlee CJK L1-UT
+Ogden
+Swing Shift
+Burgs
+19:00-01:00
+Security Central
+6 hrs"	10
+8 pm	"Christensen, Briana BCC TM-UT
+Ogden
+Swing Shift
+Inbound
+20:00-22:00
+2 hrs"	
+	"Wall, Justin JLW3 L2-ID
+Rexburg
+Swing Shift
+Meds
+20:00-20:30
+0.5 hrs"	
+	"Goesch, Bret BAG L3-ID
+Rexburg
+Swing Shift
+Meds
+20:30-23:00
+2.5 hrs"	5
+9 pm	"Merrick, Stephanie SMM3 L3-ID
+Rexburg
+Swing Shift
+Meds
+21:00-22:30
+1.5 hrs"	
+	"Hayes, Michael MWH TC-ID
+Rexburg
+Swing Shift
+Team Coach
+Meds
+21:50-23:00
+Phone update support
+0 hrs"	
+	"Dixon, Cassie CD TC-ID
+Rexburg
+Swing Shift
+Team Coach
+Meds
+21:50-23:00
+Phone update support
+0 hrs"	1.5
+10 pm	"Moore, Alina AAM L3-UT
+Ogden
+Grave Shift
+Inbound
+22:00-06:30
+Weekend coverage
+8 hrs"	
+	"Beltran, Desiree FT DB2 TM-UT
+Ogden
+Grave Shift
+TM
+Inbound
+22:00-06:30
+8 hrs"	
+	"Bartholomew, Ysabelle YKB L3-ID
+Rexburg
+Swing Shift
+Meds
+22:00-22:30
+0.5 hrs"	
+	"Oltehua, Vianey VSO L2-UT
+Ogden
+Grave Shift
+Burgs
+22:00-00:30
+2.5 hrs"	
+	"Reeder, Stephen FT SOR L3-UT
+Ogden
+Swing Shift
+Inbound
+22:00-23:00
+1 hrs"	
+	"Webb, Scott SDW L2-ID
+Rexburg
+Swing Shift
+Meds
+22:00-22:30
+0.5 hrs"	
+	"Smith, Brannon FT BDS2 SC-ID
+Rexburg
+Swing Shift
+Shift Coordinator
+Cut Hours
+22:30-23:00
+0.5 hrs"	
+	"Sheridan, Madison MSS SC-ID
+Rexburg
+Grave Shift
+Shift Coordinator
+22:30-07:00
+8 hrs"	
+	"Fye, Maxwell MCF TM-L3-ID
+Rexburg
+Grave Shift
+Meds
+22:30-07:00
+8 hrs"	
+	"Dyson, Danielle FT DCD SC-UT
+Ogden
+Grave Shift
+Shift Coordinator
+Inbound
+22:30-07:00
+8 hrs"	
+	"haveman, Celia CMH SC-UT
+Ogden
+Grave Shift
+Shift Coordinator
+Inbound
+22:30-07:00
+8 hrs"	
+	"Gillming, Austin ATG L2-ID
+Rexburg
+Grave Shift
+Meds
+22:30-07:00
+8 hrs"	
+	"Veitenheimer, Joseph JAV L2-ID
+Rexburg
+Grave Shift
+Meds
+22:30-07:00
+8 hrs"	66.5
+11 pm	"Barillas, Alvaro AB4 SC-ID
+Rexburg
+Grave Shift
+Shift Coordinator
+23:00-07:00
+8 hrs"	
+	"Larsen, Chelsey FT CAL TM-UT
+Ogden
+Grave Shift
+Burgs
+23:00-07:30
+EMC  OT approved..... SN
+8 hrs"	
+	"Llajaruna, Kayla KLL L2-UT
+Ogden
+Grave Shift
+Burgs
+23:00-07:30
+8 hrs"	
+	"Rey, Monica MRR L3-ID
+Rexburg
+Grave Shift
+Meds
+23:00-07:30
+8 hrs"	
+	"Mass, Kyle FT KLM L3-UT
+Ogden
+Grave Shift
+Inbound
+23:00-07:30
+8 hrs"	
+	"Ogden, Wyatt WJO L3-ID
+Rexburg
+Grave Shift
+Meds
+23:00-07:30
+8 hrs"	
+	"Willden, Ethan ECW L3-UT
+Ogden
+Grave Shift
+Inbound
+23:00-07:30
+8 hrs"	
+	"Estrada, Norena NME L1-ID
+Rexburg
+Grave Shift
+Meds
+23:00-07:30
+8 hrs"	
+	"Cox, Christian CDC3 L2-UT
+Ogden
+Grave Shift
+Burgs
+23:00-07:30
+8 hrs"	90.5
+Total Daily Hours	916.5	916.5

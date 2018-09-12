@@ -1,0 +1,10 @@
+Notes:
+
+go through every line in lines looking for Meds, Message Centers, Transition, and Shift Coordinator
+
+Meds and Message Centers is straight forward
+Transition's time format is 0700-1100 (no semi colon)
+Shift Coordinator you will need to check for the line above to be "Rexburg"
+
+To Do: 
+- 
