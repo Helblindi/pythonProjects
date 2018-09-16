@@ -26,8 +26,8 @@ class Shift:
     def get_shift_initials(self):
         return self.initials
 
-    def set_shift_initials(self, _shift_type):
-        self.shift_type = _shift_type
+    def set_shift_initials(self, _initials):
+        self.initials = _initials
 
     def get_shift_start_time(self):
         return self.start_time

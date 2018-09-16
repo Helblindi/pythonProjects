@@ -1,3 +1,4 @@
 # Credentials
-AG/Seating_Chart_Generator/credentials.json
-AG/Seating_Chart_Generator/token.json
+credentials.json
+token.json
+quickstart.py
