@@ -83,7 +83,7 @@ def remove_unwanted_lines(lines):
                        "1 am", "2 am", "3 am", "4 am", "5 am", "6 am",
                        "7 am", "8 am", "9 am", "10 am", "1 pm", "2 pm",
                        "3 pm", "4 pm", "5 pm", "6 pm", "7 pm", "8 pm", "9 pm",
-                       " L1-ID (Training)", " SC-ID", " TC-ID", " FT",
+                       " L1-ID (Training)", " L1-ID (training)", " SC-ID", " TC-ID", " FT",
                        " L1-ID", " L2-ID", " L3-ID", " TM-L3-ID", " TM-L2-ID",
                        " L1-UT", " L2-UT", " L3-UT", " TM-L3-UT", " TM-L2-UT",
                        " TM-L2-ID", "\n", "\t", "TRANSITION WEEK ",
@@ -227,6 +227,7 @@ def condense_duplicates(shifts):
                     temp_shift = shifts[j]
                     shifts.insert(i + 1, temp_shift)
                     indices_to_be_removed.append(j)
+
                     # need to increment all indices in the list
                     for num in range(len(indices_to_be_removed)):
                         if indices_to_be_removed[num] > i:
@@ -239,6 +240,24 @@ def condense_duplicates(shifts):
     indices_to_be_removed.sort(reverse=True)
     for it in indices_to_be_removed:
         del(shifts[it])
+
+    return shifts
+
+
+def add_blank_shifts(shifts):
+    indices_to_append = []
+    # iterate through shifts looking for duplicates
+    for i in range(0, len(shifts) - 1):
+        if shifts[i].get_shift_initials() == shifts[i + 1].get_shift_initials() and \
+           shifts[i].get_shift_type() != '*' and shifts[i+1].get_shift_type() != '*':
+            # Shift(_initials, _start_time, _end_time, _shift_type)
+            indices_to_append.append(i)
+
+    # Lastly we need to remove the duplicate elements
+    blank_shift = Shift("", "", "", "*")
+    indices_to_append.sort(reverse=True)
+    for j in indices_to_append:
+        shifts.insert(j, blank_shift)
 
     return shifts
 
@@ -328,7 +347,9 @@ def main():
     lines = remove_unwanted_lines(lines)
     rex_shifts, ogd_shifts = build_rex_ogd(lines)
     rex_shifts = condense_duplicates(rex_shifts)
+    rex_shifts = add_blank_shifts(rex_shifts)
     ogd_shifts = condense_duplicates(ogd_shifts)
+    ogd_shifts = add_blank_shifts(ogd_shifts)
 
     """ Test Zone """
     # for line in lines:
@@ -339,10 +360,10 @@ def main():
     #     print(shift.get_shift_initials())
 
     """ Write to a file on the computer """
-    write_to_file(rex_shifts, "C:/Users/Madison/Desktop/rex_test.csv")  # on my personal laptop
-    write_to_file(ogd_shifts, "C:/Users/Madison/Desktop/ogd_test.csv")
-    # write_to_file(rex_shifts, "M:/Operations_Tools/Rex_Daily_Log_Tool.csv")
-    # write_to_file(ogd_shifts, "M:/Operations_Tools/Ogd_Daily_Log_Tool.csv")
+    # write_to_file(rex_shifts, "C:/Users/Madison/Desktop/rex_test.csv")  # on my personal laptop
+    # write_to_file(ogd_shifts, "C:/Users/Madison/Desktop/ogd_test.csv")
+    write_to_file(rex_shifts, "M:/Operations_Tools/Rex_Daily_Log_Tool.csv")
+    write_to_file(ogd_shifts, "M:/Operations_Tools/Ogd_Daily_Log_Tool.csv")
 
     """ Write to google sheets (Not finished) """
     # or we can write them straight into google sheets (This option does take longer
