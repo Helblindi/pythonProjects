@@ -1,0 +1,7 @@
+# Credentials
+credentials.json
+token.json
+
+# file that I am working on getting google sheets to function
+# but is unnecessary to the project.
+quickstart.py
