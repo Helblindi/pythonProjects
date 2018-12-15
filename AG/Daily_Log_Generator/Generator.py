@@ -159,7 +159,10 @@ def build_rex_ogd(lines):
             _initials = get_initials(i, lines)
             _start_time = lines[i + 1][0:5]
             _end_time = lines[i + 1][6:11]
-            ogd_shifts.append(Shift(_initials, _start_time, _end_time, _shift_type))
+            if lines[i - 1] == "Ogden" or lines[i - 2] == "Ogden":
+                ogd_shifts.append(Shift(_initials, _start_time, _end_time, _shift_type))
+            else:
+                rex_shifts.append(Shift(_initials, _start_time, _end_time, _shift_type))
 
         # Find all transition shifts and sort them by location
         elif lines[i] == "Transition":
@@ -353,7 +356,7 @@ def main():
 
     """ Test Zone """
     # for line in lines:
-    #     print(line)
+    #    print(line)
     print_shifts(rex_shifts)
     # print_shifts(ogd_shifts)
     # for shift in rex_shifts:
